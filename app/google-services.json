@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883431541789",
+    "firebase_url": "https://easy-mart-dbf1e.firebaseio.com",
+    "project_id": "easy-mart-dbf1e",
+    "storage_bucket": "easy-mart-dbf1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883431541789:android:5292f425b218969eca0af4",
+        "android_client_info": {
+          "package_name": "com.example.easymart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883431541789-jfos7k8u3furanvf4mmuig9sh8db03lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBplOE7AnUMogR-kqX1KDFwtRsNZelh9qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883431541789-jfos7k8u3furanvf4mmuig9sh8db03lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
